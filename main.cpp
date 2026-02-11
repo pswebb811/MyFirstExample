@@ -6,7 +6,7 @@ using std::cin;
 using std::cout;
 
 int main()
-{
+
     std::cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
     std::cout << "Hi, please enter two whole numbers: ";
     std::cout << "Limited to whole numbers between -2,147,483,648 and 2,147,483,647" << std::endl;
